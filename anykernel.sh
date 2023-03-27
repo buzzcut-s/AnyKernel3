@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NetHunter kernel for Nothing Phone 1
+kernel.string=bz kernel for Nothing Phone 1
 do.devicecheck=0
 do.modules=1
 do.systemless=1
